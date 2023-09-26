@@ -1,0 +1,11 @@
+function setup() {
+ createCanvas (400, 400);
+}
+
+function draw() {
+ background (220);
+ fill("white");
+ rect(0,0,400,200);
+ fill("red"); 10 
+ circle (200, 100, 120);
+}
